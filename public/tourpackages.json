@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Bali",
+      "description": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller neighbouring islands, notably Nusa Penida, Nusa Lembongan, and Nusa Ceningan.",
+      "cost": 75000,
+      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/41/69/39/pool.jpg?w=900&h=-1&s=1"
+    },
+    {
+      "name": "Bangkok",
+      "description": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller neighbouring islands, notably Nusa Penida, Nusa Lembongan, and Nusa Ceningan.",
+      "cost": 75000,
+      "img": "https://content.r9cdn.net/rimg/dimg/26/5b/01e97574-city-26166-1592813274a.jpg?width=1750&height=1000&xhint=1038&yhint=725&crop=true"
+    },
+    {
+      "name": "Singapore",
+      "description": "Singapore, officially the Republic of Singapore, is a sovereign island city-state in maritime Southeast Asia.",
+      "cost": 75000,
+      "img": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-12/15/full/1608011089-8994.jpg"
+    },
+    {
+      "name": "Agra",
+      "description": "Agra is a city on the banks of the Yamuna river in the Indian state of Uttar Pradesh, about 210 kilometres south of the national capital New Delhi and 335km west of the state capital Lucknow.",
+      "cost": 75000,
+      "img": "https://static.toiimg.com/photo/77717233.cms"
+    },
+    {
+      "name": "Kuala Lumpur",
+      "description": "Kuala Lumpur is the capital of Malaysia. Its modern skyline is dominated by the 451m-tall Petronas Twin Towers, a pair of glass-and-steel-clad skyscrapers with Islamic motifs.",
+      "cost": 75000,
+      "img": "https://www.planetware.com/wpimages/2019/10/malaysia-kuala-lumpur-top-attractions-petronas-twin-towers-sunset.jpg"
+    },
+    {
+      "name": "Kathmandu",
+      "description": "Kathmandu, Nepal's capital, is set in a valley surrounded by the Himalayan mountains. At the heart of the old city’s mazelike alleys is Durbar Square, which becomes frenetic during Indra Jatra, a religious festival featuring masked dances.",
+      "cost": 75000,
+      "img": "http://hometoursbd.com/wp-content/uploads/2018/04/kathmandu-valley-hiking-tour-2-269861_1510029029.jpg"
+    }
+  ]

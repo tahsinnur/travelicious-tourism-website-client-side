@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Transportation",
+      "description": "All transportation cost we bear",
+      "img": "https://preview.colorlib.com/theme/martine/img/xservices_1.png.pagespeed.ic.kadTQpnK1M.webp"
+    },
+    {
+      "name": "Guidence",
+      "description": "We offer the best guidence for you",
+      "img": "https://preview.colorlib.com/theme/martine/img/xservices_2.png.pagespeed.ic.4Rar7bZu7k.webp"
+    },
+    {
+      "name": "Accomodation",
+      "description": "Luxarious and comfortable",
+      "img": "https://preview.colorlib.com/theme/martine/img/xservices_3.png.pagespeed.ic.xk2bNEWcwv.webp"
+    },
+    {
+      "name": "Discover world",
+      "description": "Best tour plan for your next tour",
+      "img": "https://preview.colorlib.com/theme/martine/img/xservices_4.png.pagespeed.ic.P1jY3Sf55m.webp"
+    }
+  ]
